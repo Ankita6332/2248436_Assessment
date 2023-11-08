@@ -92,13 +92,10 @@ Plotting Train and Validation Accuracy: The training accuracy (hist.history['acc
 3.	Print test accuracy: Display the test accuracy.
    
 CONCLUSION
-The LSTM model developed shows promising results, achieving a training accuracy of 92.44% and a test accuracy of 89.43%. These results indicate that the model can effectively classify flower images and provide accurate information to users.
-Integrating this model into a mobile application for a flower bouquet shop would significantly enhance the customer experience and provide several benefits:
-1. Accurate Flower Recognition: The model's ability to identify flower species with high accuracy will allow users to easily and accurately determine the type of flower they are photographing.
-3. Convenient Flower Ordering: Users will be able to seamlessly order flowers similar to the ones they have photographed directly through the mobile application. This will encourage impulse purchases and increase sales for the flower shop.
-4. Enhanced Customer Engagement: The image classification feature will create a more interactive and engaging experience for users, fostering their interest in flowers and encouraging them to explore the shop's offerings.
-5. Valuable Customer Insights: The collected image data and user interactions can be analyzed to gain insights into customer preferences, popular flower varieties, and seasonal trends. This information can be used to improve marketing strategies and product offerings.
-Overall, the integration of the LSTM model into the mobile application will not only enhance customer experience but also provide the flower shop with valuable data and insights to improve their business operations.
+The LSTM model developed shows promising results, achieving a training accuracy of 92.44% and a test accuracy of 89.43%. These results indicate that the model can effectively classify negative, positive and neutral reviews hence helping the business to grow more. 
+Integrating this model into a mobile application for an online retail store would significantly enhance the customer experience and provide several benefits. 
+Enhanced Customer Engagement: The classification of reviews will give a more in-depth insights for the business thereby improving their next strategies.
+
 
 
 
