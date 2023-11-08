@@ -1,5 +1,5 @@
-# 2248436_Assessment
-This repository consists of two scenario based models using TensorFlow. 
+# 2248436_Assessment 
+Problem Statement 1
 An online fashion retailer wants to develop a machine learning model that can classify customer reviews into different sentiment categories. The model will take as input a customer review and output a prediction of the review's sentiment, such as positive,negative, or neutral. A ML model for aforesaid classification has been built.
 
 DATA OVERVIEW
